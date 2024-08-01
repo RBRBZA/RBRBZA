@@ -2,7 +2,7 @@
 
 Meu nome é Ricardo Barboza
 
-- Estou estudando Alura
+- Estou estudando na [Alura] (https://www.alura.com.br)
 - Estou desenvolvendo linguagem javaScript
 - Utilizo este espaço para organização e compartilhamento de meus projetos que desenvolvi
 
@@ -12,4 +12,5 @@ Meu nome é Ricardo Barboza
 
 - Ricardo Barboza
 
-- 
+![](https://tenor.com/pt-BR/view/naruto-gif-19427546)
+
